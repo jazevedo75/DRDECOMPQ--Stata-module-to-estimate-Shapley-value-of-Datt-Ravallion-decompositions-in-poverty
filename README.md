@@ -35,3 +35,6 @@ This module should be installed from within Stata by typing "ssc install drdecom
     World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the
     Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank:
     Washington DC.   (link to publication)
+
+### Keywords
+Shapley decomposition; welfare measure;
