@@ -1,0 +1,9 @@
+v 0.0.0
+d 'DRDECOMP' 
+d 
+d Distribution-Date: 
+d License: MIT
+d 
+F src/d/drdecomp.ado
+F src/d/drdecomp.hlp
+F src/_/_ex_drdecomp.ado
