@@ -1,7 +1,7 @@
 v 1.0
-d 'DRDECOMP' 
+d 'DRDECOMP': Stata module to estimate Shapley value of growth and distribution components of changes in poverty indicators
 d 
-d Distribution-Date: 
+d Distribution-Date: 01Dec2012
 d License: MIT
 d 
 F src/d/drdecomp.ado
