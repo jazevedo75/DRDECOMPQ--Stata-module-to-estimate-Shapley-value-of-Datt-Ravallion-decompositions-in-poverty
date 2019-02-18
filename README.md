@@ -1,4 +1,4 @@
-# DRDECOMP: Stata module to estimate Shapley value of growth and distribution components of changes in poverty indicators
+﻿# DRDECOMP: Stata module to estimate Shapley value of growth and distribution components of changes in poverty indicators
 
 drdecomp implements the shapley value of the Datt and Ravallion (1992) decomposition of changes in a welfare indicator into growth and distribution, however, following the shapley and non parametric methodology suggested by Shorrocks (1999/2012) and Kolenikov and Shorrocks (2003). For examples of applications please see Azevedo and Sanfelice (2012) and Ferreira et al (2012).
 
@@ -38,3 +38,17 @@ This module should be installed from within Stata by typing "ssc install drdecom
 
 ### Keywords
 Shapley decomposition; welfare measure;
+
+
+## Authors: 
+
+  **Viviane Sanfelice**  
+
+  **Andres Castanedas**  
+  World Bank  
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
