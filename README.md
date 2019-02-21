@@ -15,26 +15,17 @@ This module should be installed from within Stata by typing "ssc install drdecom
 ### References
 
 
-    Azevedo, Joao Pedro and Viviane Sanfelice (2012) "The rise of the middle class in Latin
-    America". World Bank (mimeo).
+Azevedo, Joao Pedro and Viviane Sanfelice (2012) "The rise of the middle class in Latin America". World Bank (mimeo).
 
-    Ferreira, Francisco H.G.; Messina, Julian; Rigolini, Jamele; L?pez-Calva, Luis-Felipe; Lugo,
-    Maria Ana; Vakis, Renos. (2013) Economic Mobility and the Rise of the Latin American Middle
-    Class. Washington, DC: World Bank.   (link to publication)
+Ferreira, Francisco H.G.; Messina, Julian; Rigolini, Jamele; L?pez-Calva, Luis-Felipe; Lugo, Maria Ana; Vakis, Renos. (2013) Economic Mobility and the Rise of the Latin American Middle Class. Washington, DC: World Bank.   (link to publication)
 
-    Datt, G.; Ravallion, M. (1992) Growth and Redistribution Components of Changes in Poverty
-    Measures: A Decomposition with Applications to Brazil and India in the 1980s. Journal of
-    Development Economics, 38: 275-296.
+Datt, G.; Ravallion, M. (1992) Growth and Redistribution Components of Changes in Poverty Measures: A Decomposition with Applications to Brazil and India in the 1980s. Journal of Development Economics, 38: 275-296.
 
-    Shorrocks, A. F. (2012) Decomposition procedures for distributional analysis: a unified
-    framework based on the Shapley value. Journal of Economic Inequality.
+Shorrocks, A. F. (2012) Decomposition procedures for distributional analysis: a unified framework based on the Shapley value. Journal of Economic Inequality.
 
-    Shorrocks, A.; Kolenikov, S. (2003) A Decomposition Analysis of Regional Poverty in Russia,
-    Discussion Paper No. 2003/74 United Nations University.
+Shorrocks, A.; Kolenikov, S. (2003) A Decomposition Analysis of Regional Poverty in Russia, Discussion Paper No. 2003/74 United Nations University.
 
-    World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the
-    Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank:
-    Washington DC.   (link to publication)
+World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank: Washington DC.   (link to publication)
 
 ### Keywords
 Shapley decomposition; welfare measure;
