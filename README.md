@@ -25,7 +25,7 @@ Shorrocks, A. F. (2012) Decomposition procedures for distributional analysis: a 
 
 Shorrocks, A.; Kolenikov, S. (2003) A Decomposition Analysis of Regional Poverty in Russia, Discussion Paper No. 2003/74 United Nations University.
 
-World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank: Washington DC.   [(link to publication)](http://siteresources.worldbank.org/INTLAC/Resources/LAC_poverty_report.pdf)
+World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank: Washington DC.   [(link to publication)](http://hdl.handle.net/10986/17196)
 
 ### Keywords
 Shapley decomposition; welfare measure;
